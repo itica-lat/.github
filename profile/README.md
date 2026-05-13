@@ -1,6 +1,7 @@
 <div align="center">
   <br />
-  <img src="https://media.discordapp.net/attachments/1498469887532859482/1498470331856326776/Logo.png?ex=69f146bf&is=69eff53f&hm=82b77ba45f19c8a6cecad96e43c2383ff7cfa3fd780d871770c4e02f80748f9e&=&format=webp&quality=lossless&width=866&height=960" alt="Itica" width="128" />
+  <img width="9208" height="4500" alt="Banner" src="https://github.com/user-attachments/assets/3252f5e6-2189-4c01-8fd0-2973e0fe611c" />
+
   <br /><br />
 
   <h1>Itica</h1>
