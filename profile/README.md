@@ -25,7 +25,7 @@ WeFaber es una organización uruguaya de software e IA aplicada fundada por **Fa
 
 El nombre no es decorativo. Viene del inglés *we fabricate*: fabricamos cosas reales, no demos ni pitches. Lo que sale de este taller está terminado, andando y en manos de alguien.
 
-No somos una empresa de servicios. No hacemos consultoría. Construimos productos propios, los publicamos como open source y los iteramos rápido con la comunidad que los usa.
+Construimos productos propios, los publicamos como open source y los iteramos rápido con la comunidad que los usa. Siempre estamos abiertos a colaborar.
 
 Priorizamos diseño y eficiencia sobre cualquier otra cosa. Un producto de WeFaber tiene que ser rápido, bello y útil, en ese orden y sin negociación.
 
