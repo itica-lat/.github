@@ -1,8 +1,6 @@
 <div align="center">
   <br />
-  <!-- TODO: reemplazar por el banner de WeFaber (el asset actual es el banner de Itica:
-       https://github.com/user-attachments/assets/3252f5e6-2189-4c01-8fd0-2973e0fe611c) -->
-  <img width="9208" height="4500" alt="Banner" src="https://github.com/user-attachments/assets/3252f5e6-2189-4c01-8fd0-2973e0fe611c" />
+  <img width="1920" height="954" alt="Banner WeFaber" src="https://raw.githubusercontent.com/wefaber/.github/main/assets/banner.png" />
 
   <br /><br />
 
